@@ -16,7 +16,9 @@ Generation: An LLM (via Foundation Model APIs) generates the final response.
 
 Deployment: The full chain is deployed as a secure, monitored Model Serving Endpoint.
 
+
 📁 Repository Structure & Syllabus Map
+
 The repository is organized by the functional steps of the AI development lifecycle, mirroring the 6-week certification syllabus.
 <img width="1644" height="1068" alt="image" src="https://github.com/user-attachments/assets/d2a4bcc9-56e7-4f89-be35-a8458bd92f1b" />
 
